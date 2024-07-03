@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ko">
+<head>
+
+	
+	
+	
+	<meta property="og:title" content="당신의 가장 좋은 선택, GS SHOP">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.gsshop.com">
+	<meta property="og:image" content="https://image.gsshop.com/ui/gsshop/pc/shop/main/images/gs_640_ban.jpg">
+	<meta property="og:description" content="매월 새로운 혜택으로 쇼핑을 더욱 풍요롭게!">
+	<meta name="description" content="행사카드, 쿠폰, 적립금 등 할인 혜택. GS홈쇼핑 인터넷 모바일 쇼핑몰.">
+	<meta http-equiv="Cache-Control" content="no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta name="google-site-verification" content="9AI4EMAE711E_oSwQW28BaYdCOMlgxqP26kJ9wRXIPc" />
+
+	
+	<!-- //20220106 SHOPPY 추가 - [HANGBOT-27576] -->
+	
+
+
+
+
+
+
+
+
+
+<meta name="referrer" content="always">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover, shrink-to-fit=no" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+
+
+
+
+
+<link rel="apple-touch-icon-precomposed" href="//public.m-gs.kr/ui/gsshop/images/gsshop_favico.png" />
+<link rel="shortcut icon" type="image/x-icon" href="//public.m-gs.kr/ui/gsshop/images/gsshop_favico.png" />
+
+<title>GS SHOP</title>
+
+
+
+
+<link rel="preload" href="//public.m-gs.kr/ui/gsshop/fonts/pretendard/woff2-subset/Pretendard-SemiBold.subset.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="//public.m-gs.kr/ui/gsshop/fonts/pretendard/woff2-subset/Pretendard-Regular.subset.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="//public.m-gs.kr/ui/gsshop/fonts/pretendard/woff2-subset/Pretendard-Bold.subset.woff2" as="font" type="font/woff2" crossorigin />
+
+<link rel="stylesheet" id="gs-icon-font" href="//public.m-gs.kr/ui/gsshop/fonts/style.css?20240701134200" />
+
+
+	
+	
+	 <link type="text/css" rel="stylesheet" href="//public.m-gs.kr/ui/gsshop/mc/common/styles/common.min.css?20240701134200" />
+	
+
+<script type="text/javascript">
+
+var MCDeviceChecker = {"IOS":false,"IOS6":false,"IOS6Over":false,"IOS7":false,"IPad":false,"IPadIOS7":false,"IPhone":false,"UAgentAppClass":{},"UAgentAppType":{},"UAgentAppVer":"100","android":false,"androidTvApp":false,"app":false,"appClassFromCookie":null,"appMediaType":{},"ditto":false,"dittoApp":false,"galaxyTab":false,"gsMCApp":false,"managedVersion":false,"safari":false,"smartTV":false,"tvshoppingApp":false};
+
+</script>
+<script type="text/javascript"  src="//public.m-gs.kr/ui/gsshop/mc/assets/scripts/lib/browser.js"></script>
+
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="//public.m-gs.kr/ui/gsshop/mc/assets/styles/index2.min.css?20240701134200" />
+
+<link type="text/css" rel="stylesheet" href="//public.m-gs.kr/ui/gsshop/mc/shop/home/styles/style.min.css?20240701134200" />
+
+<link type="text/css" rel="stylesheet" href="//public.m-gs.kr/ui/gsshop/mc/shop/player/styles/basic.min.css?20240701134200" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+dataLayer = [{ 
+	'gs_gender': 'U',
+	'gs_age': 0, 	 
+	'uid': '',
+	'gs_pcid': 'rCUkcmamWE0DE5AtgPw5l',
+	'OS' : (navigator.userAgent.indexOf("WOW64") != -1 || navigator.userAgent.indexOf("Win64") != -1) ? "64BIT" : "32BIT",
+	'login' : 'X',
+	'catvid' : '0'
+	}];
+</script>
+
+
+	
+</head>
+
+<body>
+
+
+
+
+
+
+<div id="MCDeviceChecker" data-devicechecker='{"IOS":false,"IOS6":false,"IOS6Over":false,"IOS7":false,"IPad":false,"IPadIOS7":false,"IPhone":false,"UAgentAppClass":{},"UAgentAppType":{},"UAgentAppVer":"100","android":false,"androidTvApp":false,"app":false,"appClassFromCookie":null,"appMediaType":{},"ditto":false,"dittoApp":false,"galaxyTab":false,"gsMCApp":false,"managedVersion":false,"safari":false,"smartTV":false,"tvshoppingApp":false}'></div>
+
+
+
+		<header id="gs-header" class="main"><section class="gs-wrap"><h1><a class="gs-logo" href="https://m.gsshop.com/index.gs?mseq=W00000">GS SHOP</a></h1><form id="gs-srch-frm" onsubmit="return false;"><fieldset><legend>검색</legend><span class="gui-input"><input type="search" id="srch-fake" name="srch-fake" autocomplete="off" /></span><button id="srch-submit" type="button"><span>검색</span></button></fieldset><a id="srch-open" role="button"><span>검색어를 입력하세요</span></a></form><aside><a class="go-cart" href="https://m.gsshop.com/mobile/cart/viewCart.gs?mseq=398045"><span>장바구니</span><strong class="cnt" data-flag="Y" style="display: none"></strong></a></aside></section><div id="gs-gnb"><nav class="swiper-wrapper" id="main_tab_list"><a class="item"  data-id="323" data-idx="0" data-aurl="/main/broadSchedule?mseq=W00323" data-lurl="" data-default=""><span>편성표</span></a><a class="item"  data-id="577" data-idx="1" data-aurl="/shop/main/mobileLiveMain?mseq=W00577" data-lurl="" data-default=""><sup class="color-black">모바일</sup><span>라이브</span></a><a class="item"  data-id="618" data-idx="2" data-aurl="/main/tvHighlight?mseq=W00618" data-lurl="" data-default=""><span>TV</span></a><a class="item"  data-id="54" data-idx="3" data-aurl="/main/bestdeal?mseq=W00054" data-lurl="" data-default="true"><span>홈</span></a><a class="item"  data-id="495" data-idx="4" data-aurl="/shop/module/customModuleShop.gs?shopNumber=1373&amp;mseq=W00495" data-lurl="" data-default=""><sup >10% 적립</sup><span>월간GS</span></a><a class="item"  data-id="643" data-idx="5" data-aurl="/shop/module/customModuleShop.gs?shopNumber=1345&amp;mseq=W00643" data-lurl="" data-default=""><sup >브랜드릴레이</sup><span>메디힐</span></a><a class="item"  data-id="613" data-idx="6" data-aurl="/main/bargain?mseq=W00613" data-lurl="" data-default=""><span>특가</span></a><a class="item"  data-id="607" data-idx="7" data-aurl="/main/brandNew?mseq=W00607" data-lurl="" data-default=""><span>신상</span></a><a class="item"  data-id="509" data-idx="8" data-aurl="/shop/module/customModuleShop.gs?shopNumber=1331&amp;mseq=W00509" data-lurl="" data-default=""><span>대상웰라이프</span></a><a class="item"  data-id="61" data-idx="9" data-aurl="/main/todayopen?mseq=W00061" data-lurl="" data-default=""><span>오늘의딜</span></a><a class="item"  data-id="656" data-idx="10" data-aurl="/main/V2/ranking?mseq=W00656" data-lurl="" data-default=""><span>랭킹</span></a><a class="item"  data-id="513" data-idx="11" data-aurl="/shop/module/customModuleShop.gs?shopNumber=946&amp;mseq=W00513" data-lurl="" data-default=""><span>혜택</span></a><a class="item"  data-id="635" data-idx="12" data-aurl="/shop/vipLoungeV2?mseq=W00635" data-lurl="" data-default=""><span>VIP</span></a><div class="bar"></div><!-- bar : active 표시 --></nav></div></header><!-- search main layer start --><div class="sub_srch_form srch" role="search" id="srch" style="display:none;"><div class="srch_form_wrap"><form onsubmit="return false;" method="get" action="/"><!-- 2020-05-18 키패드 검색버튼 활성화 method action 추가 --><fieldset><legend>검색어 입력</legend><div class="srch_input_wrap"><input type="search" class="srch_input" id="sch" name="sch" value="" title="검색어 입력" placeholder="검색어를 입력해주세요" style="font-weight:bold;color:#111" autocomplete="off"><button class="btn_del_srch" style="display:block">검색어삭제</button><button type="submit" class="btn_srch" style="display:block">검색</button><input type="text" id="txt_focus_ios" name="txt_focus_ios" style="opacity:0;filter:alpha(opacity=0);width:0;overflow:hidden;"></div><p class="category_back_btn" id="btnCloseSrchform"><a href=""><i class="gis-arrow_back"></i></a></p></fieldset></form></div><div class="srch_form_result"><article id="srch-suggest"><section id="recent-keyword"><header class="lst-head"><div class="head-column"><h2>최근 검색어</h2></div><aside class="toolkit"><button class="btn-more_ico" type="button"><span>도구</span></button><div class="btns-group vertical"><button id="recent-all-delete" class="gui-btn" type="button"><span>모두 지우기</span></button><button id="recent-edit-close" class="gui-btn" type="button"><span>취소</span></button></div></aside></header><div id="recent-keyword-lst" class="gui-tab__round items md"><nav id="recent_keyword" class="x-scroll"></nav></div></section><section id="extention_keyword_list"><div class="lst-head"><div class="head-column"><h2 class="ttl-base">추천 검색어</h2></div></div><div class="gui-tab__round items md"><nav id="extention_keyword" class="x-scroll"></nav></div></section><!--<section id="pop_plan_list"><h2 class="sect-ttl">인기 기획전</h2><div id="pop_plan_list_search" class="hot-event"><div class="swiper-wrapper"></div></div></section>--><section id="ad_banner" class="pdv-xxs pdh-sm"></section><section id="hot-keyword" class="hot-keyword"><div class="lst-head"><h2 class="sect-ttl">인기 검색어</h2><aside><p class="desc-xs">최근 1시간 입력 검색어 기준</p></aside></div><div class="hot-keyword-lst col2" id="hot_keyword"></div></section></article><div class="srch_form_layer" style="display: none;"><!-- 자동완성 검색어 --><div id="srch_auto_text" style="display: none;"></div><!-- //자동완성 검색어 --><div class="srch_btn" id="srch_btn"><!--<div class="srch_btn_left"><a href="javascript:delCookie();" class="btn_srch_del"><span>전체 삭제</span></a></div>--><div class="srch_btn_right"><a href="javascript:history.back();" class="btn_srch_close"><span>닫기</span></a></div></div></div></div></div><!-- search main layer end --><div id="visenzeCtrData" data-isapp="N" data-serverdomain="https://m.gsshop.com" data-iscropavailable="N"/><section id="main_area" class="gs-contents"><!-- tv 쇼핑 시작 --><div id="tvshop_live"></div><!-- tv 쇼핑 끝 --><!-- tv 쇼핑 시작 --><div id="dealList"><input type="hidden" id="totalCnt" value="" /></div><!-- tv 쇼핑 끝 --></section><div class="loading_cont"><div id="moreDiv" class="moreDiv"><span id="moreBtn" class="loading15" style="cursor:default"></span></div></div>
+
+<script>
+var param_openDate = "";
+var param_brdTime = "";
+var commonStaticUri = "//public.m-gs.kr/ui/gsshop";
+var renderJson = {"header":{"headSection":[{"section":{"id":52,"largeId":null,"middleId":null,"parentId":null,"name":"Home","type":null,"linkUrl":"/index.gs?mseq=W00000","sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0},"cssImg":"https://image.gsshop.com/ui/gsshop/shop/images/group_home_title_small02_off.png","cssOnImg":"https://image.gsshop.com/ui/gsshop/shop/images/group_home_title_small02_on.png"},{"section":{"id":411,"largeId":null,"middleId":null,"parentId":1,"name":"의류/잡화/보석","type":null,"linkUrl":"/group/411?mseq=W00411","sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0},"cssImg":"https://image.gsshop.com/deal/form/8c175d92-d35a-4228-87c4-5a7e0f8f4b77/8c175d92-d35a-4228-87c4-5a7e0f8f4b77_1.png","cssOnImg":"https://image.gsshop.com/deal/form/8aed35c0-833b-4e12-9436-6a345b0696b3/8aed35c0-833b-4e12-9436-6a345b0696b3_1.png"},{"section":{"id":425,"largeId":null,"middleId":null,"parentId":1,"name":"뷰티","type":null,"linkUrl":"/group/425?mseq=W00425","sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0},"cssImg":"https://image.gsshop.com/deal/form/e49d5b60-4a41-42e4-be41-74933a3692a3/e49d5b60-4a41-42e4-be41-74933a3692a3_1.png","cssOnImg":"https://image.gsshop.com/deal/form/9d8a4aba-4a72-4b69-b669-406e8cde3fb9/9d8a4aba-4a72-4b69-b669-406e8cde3fb9_1.png"},{"section":{"id":17,"largeId":null,"middleId":null,"parentId":1,"name":"유아/식품/생활","type":null,"linkUrl":"/group/17?mseq=W00017","sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0},"cssImg":"https://image.gsshop.com/ui/gsshop/shop/images/group_3_title_small_off.png","cssOnImg":"https://image.gsshop.com/ui/gsshop/shop/images/group_3_title_small_on.png"},{"section":{"id":27,"largeId":null,"middleId":null,"parentId":1,"name":"가구/침구/가전","type":null,"linkUrl":"/group/27?mseq=W00027","sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0},"cssImg":"https://image.gsshop.com/ui/gsshop/shop/images/20140924/group_4_title_small_off.png","cssOnImg":"https://image.gsshop.com/ui/gsshop/shop/images/group_4_title_small_on.png"},{"section":{"id":39,"largeId":null,"middleId":null,"parentId":1,"name":"스포츠/레저/여행","type":null,"linkUrl":"/group/39?mseq=W00039","sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0},"cssImg":"https://image.gsshop.com/ui/gsshop/shop/images/20140924/group_5_title_small_off.png","cssOnImg":"https://image.gsshop.com/ui/gsshop/shop/images/20140924/group_5_title_small_on.png"}],"selectedSectionList":[{"id":323,"largeId":null,"middleId":null,"parentId":52,"name":"편성표","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/main/broadSchedule?mseq=W00323","iconImgUrl":null},{"id":577,"largeId":null,"middleId":null,"parentId":52,"name":"라이브","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":"모바일","largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/shop/main/mobileLiveMain?mseq=W00577","iconImgUrl":null},{"id":618,"largeId":null,"middleId":null,"parentId":52,"name":"TV","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/main/tvHighlight?mseq=W00618","iconImgUrl":null},{"id":54,"largeId":null,"middleId":null,"parentId":52,"name":"홈","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":true,"ajaxUrl":"/main/bestdeal?mseq=W00054","iconImgUrl":null},{"id":495,"largeId":null,"middleId":null,"parentId":52,"name":"월간GS","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":"10% 적립","largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/shop/module/customModuleShop.gs?shopNumber=1373&mseq=W00495","iconImgUrl":null},{"id":643,"largeId":null,"middleId":null,"parentId":52,"name":"메디힐","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":"브랜드릴레이","largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/shop/module/customModuleShop.gs?shopNumber=1345&mseq=W00643","iconImgUrl":null},{"id":613,"largeId":null,"middleId":null,"parentId":52,"name":"특가","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/main/bargain?mseq=W00613","iconImgUrl":null},{"id":607,"largeId":null,"middleId":null,"parentId":52,"name":"신상","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/main/brandNew?mseq=W00607","iconImgUrl":null},{"id":509,"largeId":null,"middleId":null,"parentId":52,"name":"대상웰라이프","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/shop/module/customModuleShop.gs?shopNumber=1331&mseq=W00509","iconImgUrl":null},{"id":61,"largeId":null,"middleId":null,"parentId":52,"name":"오늘의딜","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/main/todayopen?mseq=W00061","iconImgUrl":null},{"id":656,"largeId":null,"middleId":null,"parentId":52,"name":"랭킹","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/main/V2/ranking?mseq=W00656","iconImgUrl":null},{"id":513,"largeId":null,"middleId":null,"parentId":52,"name":"혜택","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/shop/module/customModuleShop.gs?shopNumber=946&mseq=W00513","iconImgUrl":null},{"id":635,"largeId":null,"middleId":null,"parentId":52,"name":"VIP","type":null,"linkUrl":null,"sortGbnVal":null,"sectTypeCode":null,"moduleYn":null,"count":null,"sectLinkId":null,"prdDispYn":null,"iconImg":null,"brandFlag":null,"datashopFlag":null,"lmGroupMq":null,"viewYn":null,"appiconImg":null,"tagImg":null,"jbpApi":null,"moreUrl":null,"categoryId":null,"largeBanner":null,"largeIconImg":null,"mseq":null,"childSectionList":[],"cmmItem":null,"subName":null,"largeSeq":null,"largeExposYn":null,"largePlanHideYn":null,"defaultName":null,"exposName":null,"idx":0,"defaultSect":false,"ajaxUrl":"/shop/vipLoungeV2?mseq=W00635","iconImgUrl":null}],"moreSectionList":[],"topBanner":{"openType":"N","title":"7월 웰컴 이벤트","url":"https://event.gsshop.com/event/welcome","banner1":"https://image.gsshop.com/planprd/banner_MOBILE/664082255_01.png","banner2":"https://image.gsshop.com/planprd/banner_MOBILE/618638849_02.png","banner3":"https://image.gsshop.com/planprd/banner_MOBILE/618638850_03.png","downYn":"N","iosUrl":null,"iosScheme":"","androidUrl":null,"androidScheme":null,"backColor":"","media":null,"popupBannrExposFlg":null,"popupBannrCss":null,"lowendBannrUrl":null,"lowendBannrCss":null,"lowendBannrImgUrl":null,"dataFreeFlg":null},"selectedId":52},"basketCnt":0,"serverUri":"https://m.gsshop.com","isApp":"N","isCropAvailable":"N","popup":null};
+
+// GRIT-92480 UI단에서 가져오는 JS를 위해 설정하는 해시밸류
+var resourceHashNew = '20240701134200'
+</script>
+
+
+
+
+
+
+
+
+
+
+	<div class="page_top"><span class="blind">위로</span></div><div class="quick_link_area"><ul class="quick_link_con"><li class="quick_home on "><a href="https://m.gsshop.com/index.gs"><div><em></em><span>홈</span></div></a></li><li class="quick_category"><a href="https://m.gsshop.com/m/sect/category.gs"><div><em></em><span>카테고리</span></div></a></li>	<li class="quick_shopping"><a href="https://m.gsshop.com/mygsshop/myshopInfo.gs"><div><em></em><span>마이쇼핑</span></div></a></li><li class="quick_zzim"><a href="https://m.gsshop.com/section/myWishList.gs"><div><em></em><span>찜</span></div></a></li><li class="quick_lastprd"><a href="https://m.gsshop.com/section/recntView"><div><em><mark class="thumb" style="background-image:url('https://asset.m-gs.kr/prod/1046896713/1/60');">최근본상품이미지</mark></em><span>최근본상품</span></div></a></li></ul></div><footer id="footer" role="contentinfo" class="footer"><div class="footer-btns"><button onclick="javascript:linkUrl('talk');">1:1모바일상담</button><button id ="csCenter">고객센터</button><button onclick="javascript:location.href='https://m.gsshop.com/member/logIn.gs?returnurl=68747470733A2F2F6d2e677373686f702e636f6d'">로그인</button><button id="btnInstallApp">APP 설치</button></div><ul class="footer-menu"><li><a href="https://m.gsshop.com/m/mygsshop/articleMain.gs"><span class="footer_link">이용약관</span></a></li><li><a href="https://m.gsshop.com/m/mygsshop/articleProtect.gs?div=person"><span class="footer_link"><strong>개인정보 처리방침</strong></span></a></li><li><a href="https://m.gsshop.com/m/mygsshop/articleProtect.gs?div=youth"><span class="footer_link">청소년 보호정책</span></a></li></ul><address class="company-info"><strong><span>(주)지에스리테일 사업자 정보</span></strong><div class="cop-expand"><dl><dt>(주)지에스리테일</dt><dd>대표이사  : 허연수</dd></dl><dl><dt>주소</dt><dd>서울특별시 강남구 논현로 508 (역삼동, GS타워)</dd></dl><dl><dt>개인정보 보호책임자</dt><dd>이종혁</dd></dl><dl><dt>호스팅제공자</dt><dd>㈜지에스리테일</dd></dl><dl><dt>사업자등록번호</dt><dd>116-81-18745</dd></dl><dl><dt>통신판매업 신고번호</dt><dd>제2014-서울강남-01544호</dd></dl><dl><dt>이메일</dt><dd><a href="mailto:gsshop@gsretail.com" role="link">gsshop@gsretail.com</a></dd></dl><dl><dt>고객센터</dt><dd><i class="icon-action-call"></i><span class="call-text"><a href="tel:080-414-4545">080-414-4545</a></span> <span>무료</span></dd></dl><ul class="footer-agree"><li><a href="https://www.ftc.go.kr/bizCommPop.do?wrkr_no=1168118745" target="_blank" class="footer_link">사업자정보확인</a></li><li><a href="https://m.gsshop.com/mobile/etc/etc_loan.jsp" class="footer_link">기업은행 채무지급 보증안내</a></li><li><span class="ccm-logo"></span></li></ul></div></address><div id="copyright" class="copyright">&copy; GS Retail Co.,LTD. All rights reserved. </div><div class="family-sites"><dfn>Family</dfn><ul><li><a href="https://abr.ge/aprbjn"><span class="family-woodong-g"></span></a></li><li><a href="https://aboutpet.co.kr/"><span class="family-aboutpet"></span></a></li></ul></div><div class="social-group"><a href="https://www.instagram.com/gsshop_story" class="social-instagram circle"><i class="gis-instagram"></i><span class="blind">인스타그램</span></a></div></footer> <div class="frame-order-layer" style="bottom:-500px;"><div id="loading_cont" class="loading30"></div><iframe id="direct-frame-order" src="" width="100%" height="380px" frameborder="0"></iframe></div><div class="frame-order-dim" style="display:none;"></div><section id="md-help-desk" class="md-modal toast zoom-in"><article class="md-content"><header><div class="md-handle"></div><h1 class="blind">고객센터 링크</h1></header><main class="pd-xxs"><div class="btns-group_list vertical mgv-xxs"><a class="gui-btn lg" href="javascript:linkUrl('notice');"><i class="gis-notice"></i><span>공지사항</span></a><a class="gui-btn lg" href="javascript:linkUrl('qnamain');"><i class="gis-faq"></i><span>자주 묻는 질문</span></a><a class="gui-btn lg" href="javascript:linkUrl('ideaboard');"><i class="gis-siren"></i><span>제안 및 불편신고</span></a><a class="gui-btn lg" href="javascript:linkUrl('person');"><i class="gis-user_profile"></i><span>개인정보 이용내역</span></a></div></main></article></section>
+<script type="text/javascript">
+var elem = document.getElementsByClassName("after_sns_login_success");
+if(elem == null || elem == undefined || elem.length == 0){
+	elem = document.getElementsByClassName("after_gsnpnt_trms_success");
+}
+if(elem != null && elem != undefined && elem.length > 0){
+	setInterval(function(){
+		elem[0].style.display = "none";
+	}, 2000);
+}
+</script>
+
+<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/script/lib/jquery-1.8.2.min.js?20240701134200"></script>
+	  
+
+<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/mc/assets/scripts/lib/swiper.js?20240701134200"></script>
+	  
+<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/asis/script/gsshop.mobile.appexec.js?20240701134200"></script>
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://image.gsshop.com/js/wcs/gsshop.wcs.js"></script>
+
+<script type="text/javascript">
+    Wcs.execute({
+        clientId: 'gsshop',
+        siteId: 'gsshopMobile',
+        trackers: [{ name: 'Webanalytics'}, { name: 'Recommend' }]
+    });
+</script>
+
+
+<script type="text/javascript"  src="//public.m-gs.kr/ui/gsshop/script/common/util/common.js?20240701134200"></script>		
+
+<script type="text/javascript"  src="//public.m-gs.kr/ui/gsshop/script/common/util/xssFilter.js?20240701134200"></script>
+
+
+<script type="text/javascript"  src="//public.m-gs.kr/ui/gsshop/shop/script/jquery.lazyload.js?20240701134200"></script>
+
+<script type="text/javascript"  src="//public.m-gs.kr/ui/gsshop/script/common/util/footer.js?20240701134200"></script>	
+<script type="text/javascript">
+	
+	var wa_pcid = 'rCUkcmamWE0DE5AtgPw5l';
+	window.onpageshow = function(evt) {
+		var basketTarget = $(".sub_category_btn .cart_num").size() > 0 ? $(".sub_header_area .cart_num") : $(".gs-wrap .go-cart .cnt");
+		var basketFlag = basketTarget.attr("data-flag");
+		var basketCnt = getCmmCookie("cartcnt");
+
+		if (basketFlag != undefined && basketFlag == "Y" && basketCnt != 0) {
+			if (basketCnt > 99) {
+				basketCnt = 99;
+			}
+			basketTarget.html(basketCnt);
+			basketTarget.show();
+		}
+		else {
+			basketTarget.html(0);
+			basketTarget.hide();
+		}
+	}
+
+	//앱에서 호출
+	function refreshBasketCnt() {
+
+		var basketCnt = getCmmCookie("cartcnt");
+		var basketTarget = $(".sub_category_btn .cart_num").size() > 0 ? $(".sub_header_area .cart_num") : $(".gs-wrap .go-cart .cnt");
+		if (basketCnt != 0) {
+			if (basketCnt > 99) {
+				basketCnt = 99;
+			}
+			basketTarget.html(basketCnt);
+			basketTarget.show();
+		}
+		else {
+			basketTarget.html(0);
+			basketTarget.hide();
+		}
+	}
+
+	function getCmmCookie(c_name) {
+		var i, x, y, ARRcookies = document.cookie.split(";");
+		for (i = 0; i < ARRcookies.length; i++) {
+			x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+			y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+			x = x.replace(/^\s+|\s+$/g, "");
+			if (x == c_name) {
+				return unescape(y);
+			}
+		}
+		return "0";
+	}
+
+	function commonErrorController() {
+		this.goBack = function(clientType) {
+			if(clientType == "AG002") {
+				location.href = "toapp://close";
+			} else {
+				history.back();
+			}
+		};
+
+		this.moveToForwardUrl = function(url, clientType) {
+
+			// [주문서 탭바 AB테스트] 2019.10.31
+			// [주문서 탭바제거] 20191217, lee.jh01, AB테스트종료로 인한 안드로이드 전 고객 노출
+			
+
+			if(clientType == "AG002") {
+				location.href = "toapp://close";
+			} else {
+				location.href = url;
+			}
+		};
+	}
+	var commonErrorController = new commonErrorController();
+	
+		/**
+	     * airbridge 에러 시 기존 로직 실행
+	     * setDownload : 대상 버튼 설정
+	     * deeplinks : 앱 설치되어있을 시 해당 상품페이지로 이동
+	     * fallbacks : 앱 설지되어있지 않을 때 마켓으로 이동.
+	     */
+	    try {
+	    	try {
+				(function(a_,i_,r_,_b,_r,_i,_d,_g,_e){if(!a_[_b]||!a_[_b].queue){_g=i_.getElementsByTagName(r_)[0];a_[_b]={queue:[]};_d={};for(_i=0;_i<_r.length;_d={$jscomp$loop$prop$m$2:_d.$jscomp$loop$prop$m$2},_i++)_d.$jscomp$loop$prop$m$2=_r[_i],~_d.$jscomp$loop$prop$m$2.indexOf(".")&&(_e=_d.$jscomp$loop$prop$m$2.split(".")[0],a_[_b][_e]=a_[_b][_e]||{},a_[_b][_e][_d.$jscomp$loop$prop$m$2.split(".")[1]]=function(_d){return function(){a_[_b].queue.push([_d.$jscomp$loop$prop$m$2,arguments])}}(_d)),a_[_b][_d.$jscomp$loop$prop$m$2]=function(_d){return function(){a_[_b].queue.push([_d.$jscomp$loop$prop$m$2,arguments])}}(_d);_d=i_.createElement(r_);_d.async=1;_d.src="//static.airbridge.io/sdk/latest/airbridge.min.js";_g.parentNode.insertBefore(_d,_g)}})(window,document,"script","airbridge","init setBanner setDownload setDownloads setDeeplinks sendSMS sendWeb setUserAgent setUserAlias addUserAlias setMobileAppData setUserId setUserEmail setUserPhone setUserAttributes setDeviceIFV setDeviceIFA setDeviceGAID events.send events.signIn events.signUp events.signOut events.purchased events.addedToCart events.productDetailsViewEvent events.homeViewEvent events.productListViewEvent events.searchResultViewEvent".split(" "));
+				airbridge.init({
+				    app: "gsshop",
+				    webToken: "2ddfb0a363604a0699b758eaa8ad23cf"
+				});
+			} catch (error){
+				console.log(error);
+			}
+			
+			var url = location.href+"?";
+	    	if((location.href).indexOf("?") > 1) {
+	    		url = location.href+"&";
+			}
+
+			airbridge.setDeeplinks({
+			    deeplinks: {
+			        ios: "gsshopmobile://home?" + url,
+			        android: "gsshopmobile://home?" + url,
+			        desktop: url
+			    },
+			    fallbacks: {
+			        ios: "itunes-appstore",
+			        android: "google-play"
+			    },
+			    redirect: false,
+			    buttonID: "btnInstallApp",
+			    desktopPopUp: false
+			});
+	    } catch(e) {
+	        //airbridge 에러 시 기존 로직 실행
+	        // 앱으로 보기 이벤트 처리
+	        // 우측 배너
+	        $("#btnInstallApp").on("click", function(e){
+	            e.preventDefault();
+	            
+	            var appDownloadLinkMapping = {
+	                    "android" : "market://details?id=gsshop.mobile.v2&url=gsshopmobile://home?" + location.href,
+	                    "ios" : "http://itunes.apple.com/kr/app/gsshop/id365438600?mt=8"
+	                };
+	            
+	            var appRun = function(appRunURL) {
+	
+	            	gs.appUtil.run({
+	                    "ios" : {
+	                        appURI : appRunURL,
+	                        runFailCallback : function(){
+	                            //if (confirm("GS SHOP 앱이 설치되어 있지 않습니다.\n앱을 설치하시겠습니까?")) {
+	                            location.href = appDownloadLinkMapping.ios;
+	                            //}
+	                        }
+	                    },
+	                    "android" : {
+	                        appURI : appRunURL,
+	                        intent : gs.appUtil.createIntentString({
+	                            uri : appRunURL,
+	                            package : "gsshop.mobile.v2"
+	                        }),
+	                        runFailCallback : function(){
+	                            if (confirm("GS SHOP 앱이 설치되어 있지 않습니다.\n앱을 설치하시겠습니까?")) {
+	                                location.href = appDownloadLinkMapping.android;
+	                            }
+	                        }
+	                    }
+	                });
+	            };
+	            
+	            appRun("gsshopmobile://home?" + location.href);
+	        });
+	    }//end catch
+	
+	
+	
+</script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/script/common/util/gs.appUtil.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/script/common.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/script/iscroll5.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/script/gsAmplitude.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/mc/assets/scripts/common.min.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/asis/script/jquery.cookie.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/mobilelive/script/shoppy_live.min.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/broad/script/broadAlarm.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/search/main/script/searchMainLayer.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/main.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/mainTv.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/mainFlxb.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/mainEvent.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/bestShop.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/planShop.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/broad/script/broadScheduleCommon.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/broad/script/broadScheduleSearch.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/broad/script/broadScheduleMain.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/todayOpen.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/tommBroadShop.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/moduleShopController.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/mainModuleShop.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/deal/main/script/lib/uaParser.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/vipLounge.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/vipLoungeV2.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/mobileLiveMain.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/beautyMain.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/beautyMainRenewal.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/gsExclusiveMain.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/ranking.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/rankingV2.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/brandNew.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/bargain.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/tvHighlight.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/departmentstore/script/departmentStore.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/magicDealDay.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/script/lib/kakao.min.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/script/jquery.lazyload.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/script/lib/jquery.rwdImageMaps.min.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/mc/assets/scripts/lib/videojs-landscape-fullscreen.min.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/mc/shop/player/scripts/player.min.js?20240701134200"></script>
+
+	<script type="text/javascript" src="//public.m-gs.kr/ui/gsshop/shop/home/main/script/holiday.js?20240701134200"></script>
+
+
+<script  type="text/javascript" src="//public.m-gs.kr/ui/gsshop/asis/script/global.js?20240701134200" charset="euc-kr" ></script>	<!-- FIXME : AS-IS기준 하드코딩 된 js경로를 환경별 구분하여 설정하도록 변경해야 함 -->
+
+<script  type="text/javascript" src="//public.m-gs.kr/ui/gsshop/script/lib/gs_adiz_mobile_sv120.js"></script>	<!-- DTSI SCRIPT -->
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+	(function(w,d,s,l,i){
+		w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+		j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WB46D7');
+});	
+</script>
+
+<script type="text/javascript">
+try {
+	$(document).ready(function(){
+		// flutter app
+		if (window.flutter_inappwebview) {
+			$(window).scroll(function(){
+				if($(document).scrollTop() > 0) {
+					$('#headline.header-ani').addClass('small');
+				} else {
+					$('#headline.header-ani').removeClass('small');
+				}
+			});	
+		}
+	});
+} catch (err) {
+}
+</script>
+
+ 
+<script type="text/javascript" src="https://static.criteo.net/js/ld/ld.js" async="true"></script>
+<script>
+window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(
+		{ event: "setAccount", account: [3044, 94616] },
+        { event: "setSiteType",type: "m"},
+        { event: "viewHome"}
+);
+</script>
+
+
+<script type="text/javascript">
+
+try {
+	window.addEventListener('load', function() {
+	    var across_adn_contain = new fn_across_adn_contain();
+	    var across_adn_param = [];
+	    across_adn_param = {"ut":"Home","ui":"105053"};
+	    across_adn_contain.init(across_adn_param);
+	});
+}catch(e) {
+	console.log("across script error : " + e);
+}
+
+try {
+	(function(a,g,e,n,t){a.enp=a.enp||function(){(a.enp.q=a.enp.q||[]).push(arguments)};n=g.createElement(e);n.async=!0;n.defer=!0;n.src="https://cdn.megadata.co.kr/dist/prod/enp_tracker_self_hosted.min.js";t=g.getElementsByTagName(e)[0];t.parentNode.insertBefore(n,t)})(window,document,"script");
+	enp('create', 'common', 'gsshop2022', { device: 'M' });  // W:웹, M: 모바일, B: 반응형
+	enp('send', 'common', 'gsshop2022');
+}catch(e) {
+	console.log("mobon script error : " + e);
+}
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+	// common.min.js 추가 로딩
+	if (!gs.modal || gs.modal == undefined){    
+		const srchJS  = [
+			'jquery.min.js',
+			'jquery-1.8.2.min.js',
+			'swiper.js',
+			'swiper.min.js',
+			'idangerous.swiper-2.7.6.js',
+			'video.min.js'
+		];
+		let scripts = document.querySelectorAll('script');
+		let dependencyTarget;
+		scripts.forEach((obj)=>{
+			for (var value of srchJS) {
+				if (obj.src && obj.src.indexOf( value ) != -1){
+					dependencyTarget = obj;
+				}
+			}
+		});
+		let commonJs = document.createElement("script");
+		commonJs.type = "text/javascript";
+		commonJs.src = "//public.m-gs.kr/ui/gsshop/mc/assets/scripts/common.min.js?20240701134200";
+		dependencyTarget.after(commonJs);
+	}
+}, true);
+</script>
+
+
+</body>
+</html>
